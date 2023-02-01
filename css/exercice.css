@@ -30,6 +30,12 @@
 
 
 /* 5. exercice-align-1 */
+.exercice-align-1 .container {
+  display: flex; 
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
 
 
 /* 6. exercice-align-2 */
